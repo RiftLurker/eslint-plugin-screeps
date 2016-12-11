@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-screeps",
+  "version": "0.0.0",
+  "description": "globals of the game screeps",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postcrafter/eslint-plugin-screeps.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "screeps"
+  ],
+  "author": "Leo \"PostCrafter\" Friedrichs <dev@postcrafter.de>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/postcrafter/eslint-plugin-screeps/issues"
+  },
+  "homepage": "https://github.com/postcrafter/eslint-plugin-screeps#readme",
+  "peerDependencies": {
+    "eslint": "~3.12.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
