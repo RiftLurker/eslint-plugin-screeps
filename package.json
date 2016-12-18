@@ -17,7 +17,7 @@
     "screeps"
   ],
   "author": "Leo \"PostCrafter\" Friedrichs <dev@postcrafter.de>",
-  "license": "AGPL-3.0",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/postcrafter/eslint-plugin-screeps/issues"
   },
