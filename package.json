@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-screeps",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "globals of the game screeps",
   "main": "lib/index.js",
   "scripts": {
