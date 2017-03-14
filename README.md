@@ -7,7 +7,7 @@ globals of the game screeps
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm i eslint --save-dev
+$ npm install eslint --save-dev
 ```
 
 Next, install `eslint-plugin-screeps`:
@@ -16,7 +16,7 @@ Next, install `eslint-plugin-screeps`:
 $ npm install eslint-plugin-screeps --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-screeps` globally.
+**Note:** If you installed ESLint globally (using the `--global` flag) then you must also install `eslint-plugin-screeps` globally.
 
 ## Usage
 
