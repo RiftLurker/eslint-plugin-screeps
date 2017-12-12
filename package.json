@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/postcrafter/eslint-plugin-screeps#readme",
   "peerDependencies": {
-    "eslint": "~4.13.0"
+    "eslint": ">=0.8.0"
   },
   "devDependencies": {
+    "eslint": "^4.13.1",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint": "^4.9.0"
+    "eslint-plugin-import": "^2.2.0"
   }
 }
